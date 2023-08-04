@@ -3,7 +3,14 @@
 
 ## Descargar de la pagina de github el archivo terminado en ipynb
 
-El programa genera un archivo con terminacion txt, el cual contiene tablas de 
+El programa genera un archivo con terminacion txt, el cual contiene tablas con informacion de los estados que nos interesa incluye como parametros:
+* Fortaleza del oscilador
+* Energia en voltios
+* Longitud de onda
+* el Assignment
+* Transicion de los MOs
+* Transicion con respecto al lumo y homo
+* La probabilidad calculada
 ### Como usar el programa con google collab
 
 * buscar google collab en la web, generar un documento nuevo
